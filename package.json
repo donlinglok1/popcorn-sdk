@@ -26,7 +26,7 @@
     "prepublish": "yarn build"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.12.0",
     "react-native-xmlrpc": "github:nguyenphuquang/react-native-xmlrpc"
   },
   "devDependencies": {
